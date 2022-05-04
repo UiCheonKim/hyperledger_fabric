@@ -1,0 +1,6 @@
+Installed chaincodes on peer:
+Package ID: save_ipfs_hash_2:1c73a72ce24037841f42684fe75807449f0d36fe9a080dd6ce312d8c57412a96, Label: save_ipfs_hash_2
+Package ID: save_ipfs_hash_3:4e3fba8991e9a10bc9cc17e77bf08b7c7a06e97a20e8b470c940f0762ded0f88, Label: save_ipfs_hash_3
+Package ID: fabcar_1:be524b9b42dde3402d03987f4f15c417a893b867ca698e2517fe5fb99bd88982, Label: fabcar_1
+Package ID: fabcar_2:318998fd7d989054252434a548c9b7d6731fee870feeb0a22b81490a6f88b9c9, Label: fabcar_2
+Package ID: save_ipfs_hash_1:926c69cf4d43528d2fa9f307eb4fd298cb2d9b520ef625f2334765dfa0e9196f, Label: save_ipfs_hash_1
